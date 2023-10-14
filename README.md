@@ -7,7 +7,11 @@
 ✔👩‍🎓I´m studying my first year of Web Applications Design and Development at CPIFP Nuevo Institute in Campanillas, Málaga.
 
 
+
+
 ### *A bit of History...*
+
+
 
 
 ### 🎓Other studies:
@@ -25,7 +29,7 @@
 
 ✨**Did you know**...I am fluent in English, Spanish, German and pretty advanced in French!!
 
-🎉**Fun Facts**:  I love Hiking, a walk at least 15km/day!! I´m just getting started in the Universe of 3D printing! 
+🎉**Fun Facts**:  I love Hiking, I walk at least 15km/day!! I´m just getting started in the Universe of 3D printing! 
 
 
 
