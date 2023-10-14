@@ -10,7 +10,7 @@
 ### *A bit of History...*
 
 
-## 🎓Other studies:
+### 🎓Other studies:
 
 ### **In Spain**:
 🛠💻I´ve also completed all the modules of the Intermediate Vocational Studies in Microcomputer Systems and Networking (pending the completion of my FCT practice after completing my Superior Studies.) Addionally, I have completed the equivalent of a Bachillerato in Technology.
@@ -21,7 +21,7 @@
 👩‍🏫Teaching English as a Second Language Certificate University of Toronto
 📊Vocational Studies in Business Administration and Accounting 
 
-
+........................................................................................................................
 
 ✨**Did you know**...I am fluent in English, Spanish, German and pretty advanced in French!!
 
