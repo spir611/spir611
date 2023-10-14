@@ -4,9 +4,10 @@
 <!--
 **spir611/spir611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-✔👩‍🎓I´m studying my first year Web Applications Design and Development at CPIFP Nuevo Institute in Campanillas, Málaga.
+✔👩‍🎓I´m studying my first year of Web Applications Design and Development at CPIFP Nuevo Institute in Campanillas, Málaga.
 
-## *A bit of History...*
+
+### *A bit of History...*
 
 
 ## 🎓Other studies:
