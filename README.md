@@ -14,7 +14,7 @@
 
 
 
-### 🎓Other studies:
+### 🎓Other academic training and education:
 
 ### **In Spain**:
 🛠💻I´ve also completed all the modules of the Intermediate Vocational Studies in Microcomputer Systems and Networking (pending the completion of my FCT practice after completing my Superior Studies.) Addionally, I have completed the equivalent of a Bachillerato in Technology.
