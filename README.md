@@ -9,6 +9,9 @@
 <!--  -->
 
 
+
+
+
 ### *A bit of History...*
 
 
@@ -16,15 +19,31 @@
 
 ### 🎓Other academic training and education:
 
-### **In Spain**:
+#### **In Spain**:
 🛠💻I´ve also completed all the modules of the Intermediate Vocational Studies in Microcomputer Systems and Networking (pending the completion of my FCT practice after completing my Superior Studies.) Addionally, I have completed the equivalent of a Bachillerato in Technology.
+
 📜Other certificates: Google Technical Support Certificate, Certificate of Assistance: Cybersecurity and 3D Printing 2-day summer courses UMA, Introductory Online Courses in Big Data, Robotics, Cybersecurity, Digital Marketing, Blockchain, Cloud Computing, Community Manager: Social Networks...
 
-### **In Canada**:
+#### **In Canada**:
 -🔓B.A. in Spanish Studies and Linguistics, University of Toronto)
+
 -👩‍🏫Teaching English as a Second Language Certificate, University of Toronto
+
 -📊Vocational Studies in Business Administration and Accounting, Toronto School of Business, CGA level 3
-...........................................................................................................................................................................
+
+
+
+
+
+
+
+   
+
+🔎🔎
+
+
+
+   
 
 ✨**Did you know**...I am fluent in English, Spanish, German and pretty advanced in French!!
 
