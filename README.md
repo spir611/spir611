@@ -1,5 +1,5 @@
-### Hi there! I´m Sandra Pirpamer 👋
-🔭 I’m currently working on my class project for Markup Languages..my first Webpage on **The Portuguese Way from Tui to Santiago** 
+## Hi there! I´m Sandra Pirpamer 👋
+🔭 I’m currently working on my **class project for Markup Languages**..my first Webpage on **The Portuguese Way from Tui to Santiago** 
 
 <!--
 **spir611/spir611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
