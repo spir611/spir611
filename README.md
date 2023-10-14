@@ -25,7 +25,7 @@
 👩‍🏫Teaching English as a Second Language Certificate University of Toronto
 📊Vocational Studies in Business Administration and Accounting 
 
-........................................................................................................................
+...........................................................................................................................................................................
 
 ✨**Did you know**...I am fluent in English, Spanish, German and pretty advanced in French!!
 
