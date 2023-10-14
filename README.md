@@ -2,7 +2,7 @@
 🔭 I’m currently working on my class project for Markup Languages
 
 <!--
-**spir611/spir611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**spir611/spir611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ✔👩‍🎓I´m studying my first year Web Applications Design and Development at CPIFP Nuevo Institute in Campanillas, Málaga.
 
