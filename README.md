@@ -5,7 +5,7 @@
 <!--
 **spir611/spir611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-👩‍🎓I´m studying my first year of Web Applications Design and Development at CPIFP Nuevo (desglose IES Campanillas) in Campanillas, Málaga.
+👩‍🎓I´m studying my first year of Web Applications Design and Development at CPIFP Alan Turing in Campanillas, Málaga.
 
 <!--  -->
 📨 You can reach me at my email:  spir611@g.educaand.es.
